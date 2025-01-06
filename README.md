@@ -6,5 +6,3 @@ This Power BI dashboard provides a detailed analysis of credit card transactions
 Transaction Analysis – Breakdown of spending by category and time period.
 Customer Insights – Segmentation based on spending behavior and credit usage.
 Financial Metrics – Monitoring of outstanding balances, credit limits, and payment trends.
-📈 Objective:
-To streamline credit card data analysis, enhancing decision-making for financial institutions and improving customer engagement strategies.
